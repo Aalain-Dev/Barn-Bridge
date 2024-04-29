@@ -1,5 +1,6 @@
 # Barn Bridge (Landing Page)
 
+![image](https://github.com/Aalain-Dev/Barn-Bridge/assets/168328656/5f01c5aa-aa74-419a-9ea6-c105be09a86b)
 
 # Description
 
